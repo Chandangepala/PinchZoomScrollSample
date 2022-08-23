@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PinchZoomScrollSample</string>
+    <string name="details">Hi, I am android, you can pinch zoom \nscroll
+                \n \nCreate a layout file that contains the small and large version of the content that you want to zoom. The following example creates an ImageButton for clickable image thumbnail and an ImageView that displays the enlarged view of the image.</string>
+</resources>
